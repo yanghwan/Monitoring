@@ -5,7 +5,14 @@ https://medium.com/analytics-vidhya/writing-github-readme-e593f278a796
 Windows PC환경에서 여래개의 VM을 생성하여 다양한 테스트가 가능하다.  
 기본 구성 및 네트웍에 대한 기본개념을 이해하고 구축을 하면 쉽고 빠르게 구축을 할수 있다.  
 
-```css
+
+### 1. Site Information  
+>1. Zabbix repo    : http://repo.zabbix.com/zabbix/
+>2. Zabbix manuals : https://www.zabbix.com/manuals
+
+
+
+```css color=red
 .list > li {
   position: absolute;
   top: 40px;
