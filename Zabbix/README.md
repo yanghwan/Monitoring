@@ -8,10 +8,18 @@ Zabbix 에이전트를 Unix, Linux, Windows 등의 OS에 설치하여 CPU, MEM, 
 ### 1. Site Information  
 >1. Zabbix repo    : http://repo.zabbix.com/zabbix/
 >2. Zabbix manuals : https://www.zabbix.com/manuals
+>3. Zabbix Site    : https://www.zabbix.com/
 
 ### 2. Zabbix Arch 
-
 ![image](https://user-images.githubusercontent.com/39255123/156194187-f0ec8675-90b5-4971-8d28-8a6ad8f904e9.png)
+
+- 설치
+https://www.zabbix.com/download?zabbix=6.0&os_distribution=centos&os_version=8&db=mysql&ws=apache   
+사이트를 참고하여 사이트에서 쉽게 설치 진행할수 있다. 
+
+
+
+
 ```bash
 
 ```
